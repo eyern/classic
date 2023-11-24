@@ -1636,3 +1636,7 @@ section {
   border-color: #ffc451;
   color:#ffff;
 }
+video {
+  width: 90%;
+  height: auto;
+}
